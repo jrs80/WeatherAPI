@@ -1,0 +1,11 @@
+C:\Git_Repos\WeatherAPI\WeatherAPI\bin\Debug\WeatherAPI.exe.config
+C:\Git_Repos\WeatherAPI\WeatherAPI\bin\Debug\WeatherAPI.exe
+C:\Git_Repos\WeatherAPI\WeatherAPI\bin\Debug\WeatherAPI.pdb
+C:\Git_Repos\WeatherAPI\WeatherAPI\bin\Debug\Newtonsoft.Json.dll
+C:\Git_Repos\WeatherAPI\WeatherAPI\bin\Debug\Newtonsoft.Json.xml
+C:\Git_Repos\WeatherAPI\WeatherAPI\obj\Debug\WeatherAPI.csproj.AssemblyReference.cache
+C:\Git_Repos\WeatherAPI\WeatherAPI\obj\Debug\WeatherAPI.csproj.SuggestedBindingRedirects.cache
+C:\Git_Repos\WeatherAPI\WeatherAPI\obj\Debug\WeatherAPI.csproj.CoreCompileInputs.cache
+C:\Git_Repos\WeatherAPI\WeatherAPI\obj\Debug\WeatherAPI.csproj.CopyComplete
+C:\Git_Repos\WeatherAPI\WeatherAPI\obj\Debug\WeatherAPI.exe
+C:\Git_Repos\WeatherAPI\WeatherAPI\obj\Debug\WeatherAPI.pdb
